@@ -12,7 +12,7 @@ List of Documents and Categories:
 - Resources:
     - Lecture - Geometry in the Space
     - Lecture - Spatial Surfaces
-    - Lecture - Diferential and Integral Calculus (in process)
+    - Lecture - Diferential and Integral Calculus
     - Lecture - Coordinate Systems (in process)
     - Lecture - Vector Calculus (in process)
     - Lecture - Diferential Equations (in process)
