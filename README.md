@@ -5,9 +5,9 @@ Remember to include the MIT Licence and the original creator of this project (al
 
 List of Documents and Categories:
 - Projects:
-    - Abstract Data Types
-    - Algorithms
-    - Concrete Data Types
+    - Abstract Data Types (Project)
+    - Algorithms (Series of Problems)
+    - Concrete Data Types (Project)
 
 - Resources:
     - Lecture - Geometry in the Space
